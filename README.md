@@ -10,3 +10,13 @@ https://www.kaggle.com/nosbielcs/opendataaigbrazil
     <img src="https://github.com/ygorm/Analise-De-Dados-AereoBrasil/blob/master/Screenshot_1.png" width="640" />
     <div height="2"></div>
 </div>
+
+<div align="center">
+    <img src="https://github.com/ygorm/Analise-De-Dados-AereoBrasil/blob/master/Screenshot_2.png" width="640" />
+    <div height="2"></div>
+</div>
+
+<div align="center">
+    <img src="https://github.com/ygorm/Analise-De-Dados-AereoBrasil/blob/master/Screenshot_3.png" width="640" />
+    <div height="2"></div>
+</div>
